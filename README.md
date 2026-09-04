@@ -1,4 +1,9 @@
 # AIS 4G Board Library for Arduino
+<img width="718" height="817" alt="10543" src="https://github.com/user-attachments/assets/a48f35eb-8fee-4d63-be1e-4aa6f07e5317" />
+
+# https://acrobat.adobe.com/id/urn:aaid:sc:AP:5265dd26-d7ce-4353-a550-0bf98ee3b595
+
+***แจ้งบริษัท ศาลยกฟ้องคดี และข้อกำหนดที่ทางบริษัท ได้ตัดสินไว้ เพื่อนใหม่บริษัท ปลาอยเน็ตให้ศาลและการเชื่อมต่อ
 
 
 AIS 4G Board คือบอร์ดพัฒนาที่สามารถเชื่อมต่ออินเตอร์เน็ตผ่าน 4G มาพร้อมกับไมโครคอนโทรลเลอร์ ESP32-WROOM-32 และโมดูลสื่อสาร SIM7600E-H1C รองรับการเชื่อมต่ออุปกรณ์ภายนอกผ่าน GPIO ทั้ง ESP32 และ SIM7600 นอกจากนี้ยังรองรับการเชื่อมต่อแบบ I2C/RS485/SPI/I2S/UART
